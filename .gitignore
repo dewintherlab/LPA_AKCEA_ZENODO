@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Except .gitignore itself
+!.gitignore
+
+# Except R code
+!*.R
+
+# Except the count tables and metadata
+!*table*txt
+
+# Except the pathway table
+!CP_and_H*
